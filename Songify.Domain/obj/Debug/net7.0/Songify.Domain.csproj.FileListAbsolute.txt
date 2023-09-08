@@ -1,0 +1,12 @@
+/home/maya/RiderProjects/Songify/Songify.Domain/bin/Debug/net7.0/Songify.Domain.deps.json
+/home/maya/RiderProjects/Songify/Songify.Domain/bin/Debug/net7.0/Songify.Domain.dll
+/home/maya/RiderProjects/Songify/Songify.Domain/bin/Debug/net7.0/Songify.Domain.pdb
+/home/maya/RiderProjects/Songify/Songify.Domain/obj/Debug/net7.0/Songify.Domain.csproj.AssemblyReference.cache
+/home/maya/RiderProjects/Songify/Songify.Domain/obj/Debug/net7.0/Songify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/maya/RiderProjects/Songify/Songify.Domain/obj/Debug/net7.0/Songify.Domain.AssemblyInfoInputs.cache
+/home/maya/RiderProjects/Songify/Songify.Domain/obj/Debug/net7.0/Songify.Domain.AssemblyInfo.cs
+/home/maya/RiderProjects/Songify/Songify.Domain/obj/Debug/net7.0/Songify.Domain.csproj.CoreCompileInputs.cache
+/home/maya/RiderProjects/Songify/Songify.Domain/obj/Debug/net7.0/Songify.Domain.dll
+/home/maya/RiderProjects/Songify/Songify.Domain/obj/Debug/net7.0/refint/Songify.Domain.dll
+/home/maya/RiderProjects/Songify/Songify.Domain/obj/Debug/net7.0/Songify.Domain.pdb
+/home/maya/RiderProjects/Songify/Songify.Domain/obj/Debug/net7.0/ref/Songify.Domain.dll

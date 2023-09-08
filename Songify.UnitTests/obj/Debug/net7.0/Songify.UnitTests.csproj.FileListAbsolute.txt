@@ -1,0 +1,12 @@
+/home/maya/RiderProjects/Songify/Songify.UnitTests/bin/Debug/net7.0/Songify.UnitTests.deps.json
+/home/maya/RiderProjects/Songify/Songify.UnitTests/bin/Debug/net7.0/Songify.UnitTests.dll
+/home/maya/RiderProjects/Songify/Songify.UnitTests/bin/Debug/net7.0/Songify.UnitTests.pdb
+/home/maya/RiderProjects/Songify/Songify.UnitTests/obj/Debug/net7.0/Songify.UnitTests.csproj.AssemblyReference.cache
+/home/maya/RiderProjects/Songify/Songify.UnitTests/obj/Debug/net7.0/Songify.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+/home/maya/RiderProjects/Songify/Songify.UnitTests/obj/Debug/net7.0/Songify.UnitTests.AssemblyInfoInputs.cache
+/home/maya/RiderProjects/Songify/Songify.UnitTests/obj/Debug/net7.0/Songify.UnitTests.AssemblyInfo.cs
+/home/maya/RiderProjects/Songify/Songify.UnitTests/obj/Debug/net7.0/Songify.UnitTests.csproj.CoreCompileInputs.cache
+/home/maya/RiderProjects/Songify/Songify.UnitTests/obj/Debug/net7.0/Songify.UnitTests.dll
+/home/maya/RiderProjects/Songify/Songify.UnitTests/obj/Debug/net7.0/refint/Songify.UnitTests.dll
+/home/maya/RiderProjects/Songify/Songify.UnitTests/obj/Debug/net7.0/Songify.UnitTests.pdb
+/home/maya/RiderProjects/Songify/Songify.UnitTests/obj/Debug/net7.0/ref/Songify.UnitTests.dll

@@ -1,0 +1,12 @@
+/home/maya/RiderProjects/Songify/Songify.Data/bin/Debug/net7.0/Songify.Data.deps.json
+/home/maya/RiderProjects/Songify/Songify.Data/bin/Debug/net7.0/Songify.Data.dll
+/home/maya/RiderProjects/Songify/Songify.Data/bin/Debug/net7.0/Songify.Data.pdb
+/home/maya/RiderProjects/Songify/Songify.Data/obj/Debug/net7.0/Songify.Data.csproj.AssemblyReference.cache
+/home/maya/RiderProjects/Songify/Songify.Data/obj/Debug/net7.0/Songify.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/maya/RiderProjects/Songify/Songify.Data/obj/Debug/net7.0/Songify.Data.AssemblyInfoInputs.cache
+/home/maya/RiderProjects/Songify/Songify.Data/obj/Debug/net7.0/Songify.Data.AssemblyInfo.cs
+/home/maya/RiderProjects/Songify/Songify.Data/obj/Debug/net7.0/Songify.Data.csproj.CoreCompileInputs.cache
+/home/maya/RiderProjects/Songify/Songify.Data/obj/Debug/net7.0/Songify.Data.dll
+/home/maya/RiderProjects/Songify/Songify.Data/obj/Debug/net7.0/refint/Songify.Data.dll
+/home/maya/RiderProjects/Songify/Songify.Data/obj/Debug/net7.0/Songify.Data.pdb
+/home/maya/RiderProjects/Songify/Songify.Data/obj/Debug/net7.0/ref/Songify.Data.dll

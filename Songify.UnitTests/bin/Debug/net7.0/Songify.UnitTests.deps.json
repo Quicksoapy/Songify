@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Songify.UnitTests/1.0.0": {
+        "runtime": {
+          "Songify.UnitTests.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Songify.UnitTests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

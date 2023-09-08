@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net" modified="2023-09-07T13:36:49.115Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Kp6Tcb6S-8kk1xeXbs_S" version="21.7.2" type="device">
+  <diagram name="Page-1" id="h-E-Fw37WQi8cv7q-92O">
+    <mxGraphModel dx="1434" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hBRk7hElXgp3TReCRW4r-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBRk7hElXgp3TReCRW4r-1" target="hBRk7hElXgp3TReCRW4r-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="200" />
+              <mxPoint x="160" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hBRk7hElXgp3TReCRW4r-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBRk7hElXgp3TReCRW4r-1" target="hBRk7hElXgp3TReCRW4r-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBRk7hElXgp3TReCRW4r-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBRk7hElXgp3TReCRW4r-1" target="hBRk7hElXgp3TReCRW4r-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBRk7hElXgp3TReCRW4r-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBRk7hElXgp3TReCRW4r-1" target="hBRk7hElXgp3TReCRW4r-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="200" />
+              <mxPoint x="360" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hBRk7hElXgp3TReCRW4r-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBRk7hElXgp3TReCRW4r-1" target="hBRk7hElXgp3TReCRW4r-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBRk7hElXgp3TReCRW4r-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBRk7hElXgp3TReCRW4r-1" target="hBRk7hElXgp3TReCRW4r-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBRk7hElXgp3TReCRW4r-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBRk7hElXgp3TReCRW4r-1" target="hBRk7hElXgp3TReCRW4r-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBRk7hElXgp3TReCRW4r-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBRk7hElXgp3TReCRW4r-1" target="hBRk7hElXgp3TReCRW4r-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBRk7hElXgp3TReCRW4r-1" value="Useraccount" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBRk7hElXgp3TReCRW4r-5" value="Username" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBRk7hElXgp3TReCRW4r-11" value="Password" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBRk7hElXgp3TReCRW4r-13" value="Bio" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBRk7hElXgp3TReCRW4r-15" value="Profile pic" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBRk7hElXgp3TReCRW4r-17" value="Liked songs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBRk7hElXgp3TReCRW4r-20" value="Playlists" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBRk7hElXgp3TReCRW4r-22" value="Profile Page" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

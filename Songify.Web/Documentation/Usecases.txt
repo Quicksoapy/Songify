@@ -1,0 +1,83 @@
+Use Case 1: Liking Songs (FR-01)
+
+    Actor: Registered User
+    Main Flow:
+        User logs into their account.
+        User listens to a song.
+        User clicks the "Like" button on the song's interface.
+        The system records the liked song on the user's account profile.
+    Alternate Flow:
+        If the user is not logged in, they are prompted to log in before they can like a song.
+
+Use Case 2: Creating Playlists (FR-02)
+
+    Actor: Registered User
+    Main Flow:
+        User logs into their account.
+        User navigates to the "Create Playlist" option.
+        User provides a name, optional image, and adds songs to the playlist.
+        The system creates the playlist and adds it to the user's account profile.
+    Alternate Flow:
+        If the user is not logged in, they are prompted to log in before they can create a playlist.
+
+Use Case 3: Maintaining Playlists (FR-03)
+
+    Actor: Playlist Owner or Moderator
+    Main Flow:
+        User logs into their account.
+        User goes to their playlist or a playlist they have moderator access to.
+        User can update the playlist name, image, or the list of songs.
+    Alternate Flow:
+        If the user is not the owner or a moderator, they are not allowed to edit the playlist.
+
+Use Case 4: Exporting Playlists to M3U (FR-04)
+
+    Actor: Registered User
+    Main Flow:
+        User logs into their account.
+        User navigates to a playlist they want to export.
+        User clicks on the "Export" button.
+        The system generates and downloads an M3U file of the playlist.
+
+Use Case 5: Sharing Playlists (FR-05)
+
+    Actor: Registered User
+    Main Flow:
+        User logs into their account.
+        User goes to a playlist they want to share.
+        User clicks the "Share" button.
+        The system generates a shareable link to the playlist.
+    Alternate Flow:
+        Private playlists cannot be shared with others.
+
+Use Case 6: Creating Accounts (FR-06)
+
+    Actor: New User
+    Main Flow:
+        User visits the registration page.
+        User provides a username, password, and optional profile picture and bio.
+        The system creates the user account.
+    Alternate Flow:
+        User cannot proceed without providing a username and password.
+
+Use Case 7: Saving User Data (FR-07)
+
+    Actor: System
+    Main Flow:
+        The system saves all account data except profile pictures. Profile pictures are linked through URLs.
+
+Use Case 8: Recommending New Songs (FR-08)
+
+    Actor: Registered User
+    Main Flow:
+        User logs into their account.
+        The system analyzes the user's liked songs.
+        The system recommends new songs based on the user's preferences.
+
+Use Case 9: Fetching Metadata of Songs (FR-09)
+
+    Actor: System
+    Main Flow:
+        When a new song is added to the system, the system fetches metadata (e.g., artist, album, genre) of the song from the internet to display to users.
+
+These use cases outline how the system would work based on the given functional requirements.

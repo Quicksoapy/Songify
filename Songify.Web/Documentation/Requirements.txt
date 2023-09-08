@@ -1,0 +1,29 @@
+FR-01 Liking songs
+    B-01.1  Must be logged into an account to like a song.
+    K-01.1  Liked songs will be listed on the account profile.
+FR-02 Create playlists
+    B-02.1  Must be logged into an account to create a playlist.
+    K-02.1  Playlists can have a name.
+    K-02.2  Playlists can have an image.
+    K-02.3  Playlists can have a list of songs.
+    K-02.4  Playlists will have their own tab on a given profile account.
+FR-03 Maintain playlists
+    B-03.1  Only playlist owners or moderators can edit the playlist.
+    K-03.1  Playlists can have their name updated.
+    K-03.2  Playlists can have their image updated.
+    K-03.3  Playlists can have their list of songs updated.
+FR-04 Export playlists to M3U  
+    K-04.1  An 'export' button will appear at a playlist to generate and download an M3U file.
+FR-05 Share playlists
+    B-05.1  Can only share playlists that aren't on private.
+    K-05.1  A 'share' button will appear at a playlist that will copy a link.
+FR-06 Create accounts
+    B-06.1  Accounts must have a username.
+    B-06.2  Accounts must have a password.
+    K-06.1  Accounts can have a profile picture.
+    K-06.2  Accounts can have a bio.
+FR-07 Save userdata
+    B-07.1  Will not save profile pictures, will require a URL to an image.
+    K-07.1  Will save all account data except profile pictures.
+FR-08 recommend new songs based on your likes
+FR-09 Fetch metadata of songs from internet

@@ -1,9 +1,76 @@
-﻿@page
-@model IndexModel
+@page
+@model Songify.Pages.Index
+
 @{
-    ViewData["Title"] = "Home page";
+    Layout = null;
 }
 
-<div class="text-center">
-    <h1 class="display-4">Songify</h1>
-</div>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Right-Aligned Sidebar with Bootstrap</title>
+    <style>
+        /* Custom CSS to align the sidebar to the right */
+        .right-sidebar {
+            position: fixed;
+            top: 0;
+            right: 0;
+            height: 100%;
+            background-color: #f8f9fa; 
+            border-left: 1px solid #ddd;
+            padding: 20px;
+        }
+
+        .main-content {
+            margin-right: 300px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Right Sidebar -->
+    <div class="right-sidebar">
+        <aside>
+            <h2>Sidebar</h2>
+            <ul>
+                <li><a href="#">Link 1</a></li>
+                <li><a href="#">Link 2</a></li>
+                <li><a href="#">Link 3</a></li>
+            </ul>
+        </aside>
+    </div>
+
+    <!-- Main Content Area -->
+    <div class="main-content">
+        <main>
+            <h1 style="margin-left: 10%">Songify</h1>
+        </main>
+        <div  class="row">
+            <!-- First Div for Cards (Assuming each card is placed in a col-md-6) -->
+            <div style="float: left; margin-left: 10%" class="col-md-6 col-sm-6">
+                <div class="card" style="width: 25rem; height: 50rem; border: dotted red 1px">
+                    <div class="card-body">
+                        <!-- Card content goes here -->
+                        <h5 class="card-title">Card 1</h5>
+                        <p class="card-text">This is the content of Card 1.</p>
+                    </div>
+                </div>
+            </div>
+    
+            <!-- Second Div for Cards (Assuming each card is placed in a col-md-6) -->
+            <div style="float: left; margin-left: 10%" class="col-md-6 col-sm-6">
+                <div class="card" style="width: 25rem; height: 50rem; border: dotted red 1px">
+                    <div class="card-body">
+                        <!-- Card content goes here -->
+                        <h5 class="card-title">Card 2</h5>
+                        <p class="card-text">This is the content of Card 2.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
